@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: lastboy-bot
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node index.js
+    autoDeploy: true
+    envVars:
+      - key: SESSION
+        value: BLACK MD;;;YOUR-MEGA-CODE-HERE
+      - key: PORT
+        value: 3000
