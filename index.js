@@ -58,7 +58,7 @@ async function startRaven() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("BLACK-MD", {
+      figlet.textSync("ZEZE47-MD", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -85,11 +85,11 @@ client.ev.on('connection.update', (update) => {
 startRaven()
   }
   } else if (connection === 'open') {
-      console.log(color("Congrats, BLACK MD has successfully connected to this server", "green"));
-      console.log(color("Follow me on github as Blackie254", "red"));
+      console.log(color("Congrats, ZEZE47 MD has successfully connected to this server", "green"));
+      console.log(color("Follow me on github as humphreymbise", "red"));
       console.log(color("Text the bot number with menu to check my command list"));
       client.groupAcceptInvite('L4gDFUFkHmD9NNa2XvVbNj');
-      const Texxt = `✅ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 » »【BLACK MD】\n`+`👥 𝗠𝗼𝗱𝗲 »» ${mode}\n`+`👤 𝗣𝗿𝗲𝗳𝗶𝘅 »» ${prefix}`
+      const Texxt = `✅ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 » »【ZEZE47 MD】\n`+`👥 𝗠𝗼𝗱𝗲 »» ${mode}\n`+`👤 𝗣𝗿𝗲𝗳𝗶𝘅 »» ${prefix}`
       client.sendMessage(client.user.id, { text: Texxt });
     }
   });
