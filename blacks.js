@@ -3899,18 +3899,18 @@ case 'sc': case 'script': case 'repo':
  client.sendMessage(m.chat, { image: { url: `https://files.catbox.moe/5grvn3.jpg` }, caption: 
 ` 𝙃𝙀𝙇𝙇𝙊👋 *${pushname}*,
 ╔══≪ ✦ ≫══════════≪ ✦ ≫══╗
-          𝐁𝐋𝐀𝐂𝐊-𝐌𝐃 𝐕3
+          𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 𝐕3
  The Ultimate WhatsApp Bot
 ╚══≪ ✦ ≫══════════≪ ✦ ≫══╝\n\n🔷 𝐆𝐢𝐭𝐇𝐮𝐛 𝐑𝐞𝐩𝐨:
-   ↳ https://github.com/Blackie254/black-super-bot
+   ↳ https://github.com/humphreymbise/ZEZE47-MD_V4
    ★ Don't forget to Fork & Star!.\n\n 🔶 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐏𝐚𝐢𝐫𝐢𝐧𝐠:
-   ↳ https://blacks-pair.onrender.com
+   ↳ https://j70n4wdzqy.onrender.com/
    ★ Save your Session-ID!\n\n.⚙️ 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬:
    ✓ Complete all variables
    ✓ Keep API keys secure
    ✓ Deploy properly\n\n╔══≪ ✦ ≫═══════════════≪ ✦ ≫══╗
-  Made with ❤️ by Blacky Dev
-╚══≪ ✦ ≫═══════════════≪ ✦ ≫══╝\n\n𝗠𝗮𝗱𝗲 𝗼𝗻 𝗲𝗮𝗿𝘁𝗵 𝗯𝘆 𝗛𝘂𝗺𝗮𝗻𝘀🔥!`},{quoted : m });
+  Made with ❤️ by Zeze Dev
+╚══≪ ✦ ≫═══════════════≪ ✦ ≫══╝\n\nkimg zeze!`},{quoted : m });
 
    break;
                                                   
