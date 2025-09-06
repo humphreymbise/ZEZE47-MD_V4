@@ -27,7 +27,7 @@
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114283550,27849544670  ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 255747397675,+1629667675  ",
       "value": "255629667675",
       "required": true
     },
@@ -144,7 +144,7 @@
 },
  "MENU_TYPE": {
       "description": "Input either VIDEO, LINK or IMAGE. This will allow bot to display different dynamic menu types",
-      "value": "IMAGE",
+      "value": "VIDEO",
       "required": false
 
     
