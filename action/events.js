@@ -15,7 +15,7 @@ const Events = async (client, Nick) => {
             try {
                 dpuser = await client.profilePictureUrl(num, "image");
             } catch {
-                dpuser = "https://files.catbox.moe/s5nuh3.jpg";
+                dpuser = "https://i.imgur.com/wZcGmu7.jpeg";
             }
 
             if (Nick.action === "add") {
