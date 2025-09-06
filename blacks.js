@@ -455,7 +455,7 @@ if (antilinkall === 'TRUE' && body.includes('https://') && !Owner && isBotAdmin 
   //========================================================================================================================//
 
     if (cmd && !m.isGroup) {
-      console.log(chalk.black(chalk.bgWhite("[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐂𝐇𝐀𝐍𝐓 𝐁𝐎𝐓 ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
+      console.log(chalk.black(chalk.bgWhite("[ 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 𝐁𝐎𝐓 ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
     } else if (cmd && m.isGroup) {
       console.log(
         chalk.black(chalk.bgWhite("[ LOGS ]")),
@@ -473,11 +473,11 @@ if (antilinkall === 'TRUE' && body.includes('https://') && !Owner && isBotAdmin 
 	  
     if (cmd) {
       switch (command) {
-        case "menu":
+        case "menu1":
 		      await mp3d ()
 		      
 
-let cap = `𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲😊, ${getGreeting()}\n\n╔═━════━【𝐁𝐋𝐀𝐂𝐊-𝐌𝐃】━════━╗
+let cap = `𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲😊, ${getGreeting()}\n\n╔═━════━【𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 】━════━╗
 ║         𝐁𝐈𝐍𝐀𝐑𝐘 𝐁𝐋𝐎𝐎𝐃𝐋𝐈𝐍𝐄         
 ╟───────────────────────╢
 ║ ✦ 𝗨𝘀𝗲𝗿: ${m.pushName}
@@ -1144,7 +1144,7 @@ case 'video2': {
 		  let [poll, opt] = text.split("|")
 
 if (text.split("|") < 2)
-                return m.reply(`Wrong format::\nExample:- poll who is the best president|Putin, Ruto`);
+                return m.reply(`Wrong format::\nExample:- poll who is the best president|Putin, J.K.nyerere`);
 
 let options = []
             for (let i of opt.split(',')) {
@@ -1327,7 +1327,7 @@ const cheerio = require('cheerio');
       image: {
         url: _0x29a9n6e5.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     });
   } catch (_0x180d0734) {
     m.reply(_0x180d0734);
@@ -1349,7 +1349,7 @@ const cheerio = require('cheerio');
       image: {
         url: _0x295.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     });
   } catch (_0x180d) {
     m.reply(_0x180d);
@@ -1371,7 +1371,7 @@ const cheerio = require('cheerio');
       image: {
         url: _029a96e5.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     });
   } catch (_0180d034) {
     m.reply(_0180d034);
@@ -1383,7 +1383,7 @@ const cheerio = require('cheerio');
 	      case 'impressive': {
 		      var mumaker = require("mumaker");
 		     if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "impressive BLACKY");
+      m.reply("Example Usage : " + prefix + "impressive ZEZE");
       return;
     }
      try {
@@ -1393,7 +1393,7 @@ const cheerio = require('cheerio');
       image: {
         url: _0x29a96em5.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     });
   } catch (_0x18d034) {
     m.reply(_0x18d034);
@@ -1402,22 +1402,22 @@ const cheerio = require('cheerio');
 	break; 
 
 //========================================================================================================================//		      
-	      case 'noel': {
+	      case 'zeze': {
 		      var mumaker = require("mumaker");
 		     
 		      if (!text || text == "") {
-    m.reply("Example usage: " + prefix + "Blacy myself");
+    m.reply("Example usage: " + prefix + "Zeze myself");
     return;
   } 
   try {
 	
-  var hunte = await mumaker.ephoto("https://en.ephoto360.com/noel-text-effect-online-99.html", text);
+  var hunte = await mumaker.ephoto("https://en.ephoto360.com/zeze-text-effect-online-99.html", text);
 m.reply("*Wait a moment...*");
     await client.sendMessage(m.chat, {
       image: {
         url: hunte.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃`
     }, {
       quoted: m
     });
@@ -1445,7 +1445,7 @@ m.reply("*Wait a moment...*");
       image: {
         url: hunterr.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃`
     }, {
       quoted: m
     });
@@ -1489,7 +1489,7 @@ m.reply("*Wait a moment...*");
       image: {
         url: hunteer.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃`
     }, {
       quoted: m
     });
@@ -1514,7 +1514,7 @@ m.reply("*Wait a moment...*");
       image: {
         url: hunteqr.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃`
     }, {
       quoted: m
     });
@@ -1561,7 +1561,7 @@ break;
 	      case 'neon':{
 		var mumaker = require("mumaker");
 		     if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "Neon Blacky");
+      m.reply("Example Usage : " + prefix + "Neon Zeze");
       return;
     }
      try {
@@ -1571,7 +1571,7 @@ break;
       image: {
         url: _0x29a96e5.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     });
   } catch (_0x180d034) {
     m.reply(_0x180d034);
@@ -1585,7 +1585,7 @@ break;
 	      case 'silver': case 'silva': {
 		      var mumaker = require("mumaker");
 		          if (!text || text == " ") {
-      m.reply("Example Usage : " + prefix + "Silva Nick");
+      m.reply("Example Usage : " + prefix + "Silva Zeze");
       return;
     }
      try {
@@ -1595,7 +1595,7 @@ break;
       image: {
         url: _0x2996e.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃`
     });
   } catch (_0x180d3) {
     m.reply(_0x180d3);
@@ -1609,7 +1609,7 @@ break;
 	      case 'devil':{
 		      var mumaker = require("mumaker");
 		          if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "Devil Blacky");
+      m.reply("Example Usage : " + prefix + "Devil Zeze");
       return;
     }
      try {
@@ -1619,7 +1619,7 @@ break;
       image: {
         url: _0x9a96e.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃`
     });
   } catch (_0x80d03) {
     m.reply(_0x80d03);
@@ -1643,7 +1643,7 @@ break;
       image: {
         url: _0x29a996e.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     });
   } catch (_0x180d063) {
     m.reply(_0x180d063);
@@ -1667,7 +1667,7 @@ break;
       image: {
         url: _0x29a96e.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     });
   } catch (_0x180d03) {
     m.reply(_0x180d03);
@@ -1679,7 +1679,7 @@ break;
 	      case 'thunder':{
 		      var mumaker = require("mumaker"); 
 		      if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "Thunder STEVOH");
+      m.reply("Example Usage : " + prefix + "Thunder ZEZE");
       return;
     }
 	try {
@@ -1689,7 +1689,7 @@ break;
       image: {
         url: _0x29a96.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     });
   } catch (_0x180d0) {
     m.reply(_0x180d0);
@@ -1703,7 +1703,7 @@ break;
 	case 'leaves': {
 		     var mumaker = require("mumaker"); 
 		      if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "Leaves BLACKMARCHANT-BOT");
+      m.reply("Example Usage : " + prefix + "Leaves ZEZETECH-BOT");
       return;
     }
 	try {
@@ -1713,7 +1713,7 @@ break;
       image: {
         url: _0x14192dl.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     }, {
       quoted: m
     });
@@ -1727,7 +1727,7 @@ break;
 	      case '1917': {
 		     var mumaker = require("mumaker"); 
 		      if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "1917 Black-merchant");
+      m.reply("Example Usage : " + prefix + "1917 Zeze-tech");
       return;
     }
 	try {
@@ -1737,7 +1737,7 @@ break;
       image: {
         url: _0x14192.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     }, {
       quoted: m
     });
@@ -1753,7 +1753,7 @@ break;
 	      case 'arena': {
 		     var mumaker = require("mumaker"); 
 		      if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "arena BLACK-BOT");
+      m.reply("Example Usage : " + prefix + "arena ZEZE-BOT");
       return;
     }
 	try {
@@ -1763,7 +1763,7 @@ break;
       image: {
         url: _0x14192d.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     }, {
       quoted: m
     });
@@ -1779,7 +1779,7 @@ break;
 	      case 'hacker': {
 		      var mumaker = require("mumaker");
 		      if (!text || text == "") {
-    m.reply("Example usage :  " + prefix + "hacker Blacky");
+    m.reply("Example usage :  " + prefix + "hacker Zeze");
     return;
   }
   try {
@@ -1789,7 +1789,7 @@ break;
       image: {
         url: _0x4086bb.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     }, {
       quoted: m
     });
@@ -1805,7 +1805,7 @@ break;
 	      case 'sand': {
 	 var mumaker = require("mumaker");
 		      if (!text || text == "") {
-    m.reply("Example Usage : " + prefix + "sand BLACK");
+    m.reply("Example Usage : " + prefix + "sand ZEZE");
     return;
   }
   try {
@@ -1815,7 +1815,7 @@ break;
       image: {
         url: _0x4959e5.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     }, {
       quoted: m
     });
@@ -1831,7 +1831,7 @@ break;
 	      case 'dragonball': {
 	var mumaker = require("mumaker");	      
     if (!text || text == "") {
-      m.reply("Example usage :  " + prefix + "dragonball Black-merchant");
+      m.reply("Example usage :  " + prefix + "dragonball Zeze-tech");
       return;
     }
       try {
@@ -1841,7 +1841,7 @@ break;
       image: {
         url: _0x26f3ed.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     }, {
       quoted: m
     });
@@ -1857,7 +1857,7 @@ break;
 	      case 'naruto': {
 		var mumaker = require("mumaker");      
 		      if (!text || text == "") {
-      m.reply("Example usage : " + prefix + "naruto Blacky");
+      m.reply("Example usage : " + prefix + "naruto Zeze");
       return;
     }
     try {
@@ -1867,7 +1867,7 @@ break;
       image: {
         url: _0x357389.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     }, {
       quoted: m
     });
@@ -1883,7 +1883,7 @@ break;
 	      case 'graffiti': {
 		    var mumaker = require("mumaker");  
 		      if (!text || text == "") {
-    m.reply("Example usage : " + prefix + "graffiti Black-merchant");
+    m.reply("Example usage : " + prefix + "graffiti Zeze-tech");
     return;
   }
   try {
@@ -1893,7 +1893,7 @@ break;
       image: {
         url: _0x57ef84.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 `
     }, {
       quoted: m
     });
@@ -1908,7 +1908,7 @@ break;
 //========================================================================================================================//		      
 	      case 'cat': {
 		   var mumaker = require("mumaker");
-		  if (!text || text == "") { m.reply("Example usage : * " + prefix + "cat Blacky");
+		  if (!text || text == "") { m.reply("Example usage : * " + prefix + "cat Zeze");
     return;
   }
   try {
@@ -1918,7 +1918,7 @@ break;
       image: {
         url: nick.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃`
     }, {
       quoted: m
     });
@@ -1946,7 +1946,7 @@ m.reply("*Wait a moment...*");
       image: {
         url: hunter.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃`
     }, {
       quoted: m
     });
@@ -1963,7 +1963,7 @@ m.reply("*Wait a moment...*");
 	    var mumaker = require("mumaker");
 		     
 		      if (!text || text == "") {
-    m.reply("Example usage: " + prefix + "Child Blacky");
+    m.reply("Example usage: " + prefix + "Child Zeze");
     return;
   } 
   try {
@@ -1974,7 +1974,7 @@ m.reply("*Wait a moment...*");
       image: {
         url: tumba.image
       },
-      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐁𝐋𝐀𝐂𝐊-𝐌𝐃`
+      caption: `𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔢𝔡 𝔟𝔶>>>𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃`
     }, {
       quoted: m
     });
@@ -1987,9 +1987,9 @@ m.reply("*Wait a moment...*");
 //========================================================================================================================//		      
 //========================================================================================================================//	      
 //========================================================================================================================//
-	      case "blacky":
+	      case "zezemd":
 		{
-        if (!text) return reply(`𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 𝐁𝐋𝐀𝐂𝐊-𝐌𝐃 𝐀𝐈. 𝐇𝐨𝐰 𝐜𝐚𝐧 𝐈 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮?`);
+        if (!text) return reply(`𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃  𝐀𝐈. 𝐇𝐨𝐰 𝐜𝐚𝐧 𝐈 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮?`);
           let d = await fetchJson(
             `https://bk9.fun/ai/llama?q=${text}`
           );
@@ -2026,14 +2026,14 @@ case "support": {
     // 𝗖𝗢𝗡𝗙𝗜𝗚𝗨𝗥𝗔𝗧𝗜𝗢𝗡 (Framed links)
     const 𝕭𝖑𝖆𝖈𝖐𝖞 = {
         links: {
-            group: "https://chat.whatsapp.com/CtvPN0aDdpE5HVjFLtXgAr",
-            channel: "https://whatsapp.com/channel/0029VawxyHxLdQeX3kA96G3N",
+            group: "",
+            channel: "https://whatsapp.com/channel/0029VbANIT5D8SDpK7oExi1v",
             email: "mailto:cryptoboy1649@gmail.com",
-            github: "https://github.com/black-super-bot/issues",
-            developer: "https://wa.me/254114283550"
+            github: "/issues",
+            developer: "https://wa.me/255747397675"
         },
         media: {
-            banner: "https://files.catbox.moe/xiflcv.jpeg"
+            banner: "https://i.imgur.com/VwloR6v.jpeg"
         }
     };
 
@@ -2043,28 +2043,28 @@ case "support": {
     const 𝗌𝗎𝗉𝗉𝗈𝗋𝗍𝖬𝖾𝗌𝗌𝖺𝗀𝖾 = `
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 █                             █
-█   🄱🄻🄰🄲🄺🅈 🅂🅄🄿🄿🄾🅁🅃   █
+█   ZEZE MD SUPPORT.          █
 █                             █
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
 ✧ 𝙂𝙍𝙊𝙐𝙋 » ┏━━━━━━━━━━━━━━━━┓
-             ┃ ${𝕭𝖑𝖆𝖈𝖐𝖞.links.group} ┃
+             ┃ ${zeze.links.group} ┃
              ┗━━━━━━━━━━━━━━━━┛
 
 ✧ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 » ┏━━━━━━━━━━━━━━━━┓
-               ┃ ${𝕭𝖑𝖆𝖈𝖐𝖞.links.channel} ┃
+               ┃ ${zeze.links.channel} ┃
                ┗━━━━━━━━━━━━━━━━┛
 
 ✧ 𝙀𝙈𝘼𝙄𝙇 » ┏━━━━━━━━━━━━━━━━┓
-             ┃ ${𝕭𝖑𝖆𝖈𝖐𝖞.links.email} ┃
+             ┃ ${zeze.links.email} ┃
              ┗━━━━━━━━━━━━━━━━┛
 
 ✧ �𝙄𝙏𝙃𝙐𝘽 » ┏━━━━━━━━━━━━━━━━┓
-              ┃ ${𝕭𝖑𝖆𝖈𝖐𝖞.links.github} ┃
+              ┃ ${zeze.links.github} ┃
               ┗━━━━━━━━━━━━━━━━┛
 
 ✧ 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍 » ┏━━━━━━━━━━━━━━━━┓
-                 ┃ ${𝕭𝖑𝖆𝖈𝖐𝖞.links.developer} ┃
+                 ┃ ${zeze.links.developer} ┃
                  ┗━━━━━━━━━━━━━━━━┛
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
@@ -2235,7 +2235,7 @@ case "support": {
     } else if (args[0] == "-x") {
       setTimeout(() => {
         client.sendMessage(m.chat, {
-          text: `𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐂𝐇𝐀𝐍𝐓 𝐁𝐎𝐓 𝘄𝗶𝗹𝗹 𝗻𝗼𝘄 𝗿𝗲𝗺𝗼𝘃𝗲 𝗮𝗹𝗹 ${_0x2f8982.length} 𝗙𝗼𝗿𝗲𝗶𝗴𝗻𝗲𝗿𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗶𝘀 𝗴𝗿𝗼𝘂𝗽 𝗰𝗵𝗮𝘁 𝗶𝗻 𝘁𝗵𝗲 𝗻𝗲𝘅𝘁 𝘀𝗲𝗰𝗼𝗻𝗱.\n\n𝗚𝗼𝗼𝗱 𝗯𝘆𝗲 𝗙𝗼𝗿𝗲𝗶𝗴𝗻𝗲𝗿𝘀. 𝗧𝗵𝗶𝘀 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗰𝗮𝗻𝗻𝗼𝘁 𝗯𝗲 𝘁𝗲𝗿𝗺𝗶𝗻𝗮𝘁𝗲𝗱⚠️`
+          text: `𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 𝐁𝐎𝐓 𝘄𝗶𝗹𝗹 𝗻𝗼𝘄 𝗿𝗲𝗺𝗼𝘃𝗲 𝗮𝗹𝗹 ${_0x2f8982.length} 𝗙𝗼𝗿𝗲𝗶𝗴𝗻𝗲𝗿𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗶𝘀 𝗴𝗿𝗼𝘂𝗽 𝗰𝗵𝗮𝘁 𝗶𝗻 𝘁𝗵𝗲 𝗻𝗲𝘅𝘁 𝘀𝗲𝗰𝗼𝗻𝗱.\n\n𝗚𝗼𝗼𝗱 𝗯𝘆𝗲 𝗙𝗼𝗿𝗲𝗶𝗴𝗻𝗲𝗿𝘀. 𝗧𝗵𝗶𝘀 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗰𝗮𝗻𝗻𝗼𝘁 𝗯𝗲 𝘁𝗲𝗿𝗺𝗶𝗻𝗮𝘁𝗲𝗱⚠️`
         }, {
           quoted: m
         });
@@ -2283,7 +2283,7 @@ case "support": {
       return m.reply("𝗤𝘂𝗼𝘁𝗲 𝗮𝗻 𝗶𝗺𝗮𝗴𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗲𝗵!");
     }
     if (!text) {
-      return m.reply("𝗣𝗿𝗼𝘃𝗶𝗱𝗲 𝘀𝗼𝗺𝗲 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗲𝗵! 𝗧𝗵𝗶𝘀 𝗶𝘀 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐂𝐇𝐀𝐍𝐓 𝗔𝗶, 𝘂𝘀𝗶𝗻𝗴 𝗴𝗲𝗺𝗶𝗻𝗶-𝗽𝗿𝗼-𝘃𝗶𝘀𝗶𝗼𝗻 𝘁𝗼 𝗮𝗻𝗮𝗹𝘆𝘀𝗲 𝗶𝗺𝗮𝗴𝗲𝘀.");
+      return m.reply("𝗣𝗿𝗼𝘃𝗶𝗱𝗲 𝘀𝗼𝗺𝗲 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗲𝗵! 𝗧𝗵𝗶𝘀 𝗶𝘀 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃  𝗔𝗶, 𝘂𝘀𝗶𝗻𝗴 𝗴𝗲𝗺𝗶𝗻𝗶-𝗽𝗿𝗼-𝘃𝗶𝘀𝗶𝗼𝗻 𝘁𝗼 𝗮𝗻𝗮𝗹𝘆𝘀𝗲 𝗶𝗺𝗮𝗴𝗲𝘀.");
     }
     if (!/image/.test(mime)) {
       return m.reply("𝗛𝘂𝗵 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗻𝗼𝘁 𝗮𝗻 𝗶𝗺𝗮𝗴𝗲! 𝗣𝗹𝗲𝗮𝘀𝗲 𝗧𝗮𝗴 𝗮𝗻 𝗶𝗺𝗮𝗴𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗲𝗵 !");
@@ -2342,7 +2342,7 @@ let fdr = await client.downloadAndSaveMediaMessage(m.quoted)
 
 
                     let fta = await uploadToCatbox(fdr)
-                    m.reply("𝗔 𝗠𝗼𝗺𝗲𝗻𝘁, 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐂𝐇𝐀𝐍𝐓 [𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐂𝐇𝐀𝐍𝐓 𝐁𝐎𝐓-𝗔𝗜] 𝗶𝘀 𝗮𝗻𝗮𝗹𝘆𝘇𝗶𝗻𝗴 𝘁𝗵𝗲 𝗰𝗼𝗻𝘁𝗲𝗻𝘁𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗶𝗺𝗮𝗴𝗲. . .");
+                    m.reply("𝗔 𝗠𝗼𝗺𝗲𝗻𝘁, 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 [𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 𝐁𝐎𝐓-𝗔𝗜] 𝗶𝘀 𝗮𝗻𝗮𝗹𝘆𝘇𝗶𝗻𝗴 𝘁𝗵𝗲 𝗰𝗼𝗻𝘁𝗲𝗻𝘁𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗶𝗺𝗮𝗴𝗲. . .");
 
 
 const data = await fetchJson(`https://api.dreaded.site/api/gemini-vision?url=${fta}&instruction=${text}`);
@@ -2404,7 +2404,7 @@ m.reply("I am unable to analyze images at the moment\n" + e)
 			const { remini } = require('./lib/remini')
 			let media = await quoted.download()
 			let proses = await remini(media, "enhance")
-			client.sendMessage(m.chat, { image: proses, caption: '𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 𝗯𝘆 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐂𝐇𝐀𝐍𝐓-𝗕𝗼𝘁'}, { quoted: m })
+			client.sendMessage(m.chat, { image: proses, caption: '𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 𝗯𝘆 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃-𝗕𝗼𝘁'}, { quoted: m })
 			}
 			break;
 
@@ -2438,7 +2438,7 @@ m.reply("I am unable to analyze images at the moment\n" + e)
       await client.groupSettingUpdate(groupId, "announcement");
       await client.removeProfilePicture(groupId);
       await client.groupUpdateSubject(groupId, "𝗧𝗵𝗶𝘀 𝗴𝗿𝗼𝘂𝗽 𝗶𝘀 𝗻𝗼 𝗹𝗼𝗻𝗴𝗲𝗿 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 🚫");
-      await client.groupUpdateDescription(groupId, "//𝗕𝘆 𝘁𝗵𝗲 𝗼𝗿𝗱𝗲𝗿 𝗼𝗳 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐂𝐇𝐀𝐍𝐓 𝗗𝗲𝘃 !");
+      await client.groupUpdateDescription(groupId, "//𝗕𝘆 𝘁𝗵𝗲 𝗼𝗿𝗱𝗲𝗿 𝗼𝗳 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 𝗗𝗲𝘃 !");
       await client.groupRevokeInvite(groupId);
 
       
@@ -2923,14 +2923,14 @@ m.reply("An error occured.")
         mimetype: 'audio/mp4',
         ptt: true,
         waveform:  [100, 0, 100, 0, 100, 0, 100],
-        fileName: "𝐁𝐋𝐀𝐂𝐊-𝐌𝐃",
+        fileName: "𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 ",
 
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
           title: "𝗛𝗶 𝗛𝘂𝗺𝗮𝗻👋, 𝗜 𝗮𝗺 𝗔𝗹𝗶𝘃𝗲 𝗻𝗼𝘄",
-          body: "𝐁𝐋𝐀𝐂𝐊-𝐌𝐃",
-          thumbnailUrl: "https://files.catbox.moe/rql1hh.jpeg",
+          body: "𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 ",
+          thumbnailUrl: "https://i.imgur.com/VwloR6v.jpeg",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: true
@@ -2944,7 +2944,7 @@ m.reply("An error occured.")
 	case "removebg": {
 		      try {
 
-const cap = "𝗘𝗱𝗶𝘁𝗲𝗱 𝗯𝘆 𝐁𝐋𝐀𝐂𝐊 𝐌𝐃 𝐁𝐎𝐓";
+const cap = "𝗘𝗱𝗶𝘁𝗲𝗱 𝗯𝘆 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 𝐁𝐎𝐓";
 
 if (!m.quoted) return m.reply("Send the image then tag it with the command.");
 
@@ -2953,7 +2953,7 @@ if (!m.quoted) return m.reply("Send the image then tag it with the command.");
 let fdr = await client.downloadAndSaveMediaMessage(m.quoted)
 
                     let fta = await uploadtoimgur(fdr)
-                    m.reply("𝗔 𝗺𝗼𝗺𝗲𝗻𝘁, BLACKMARCHANT 𝗶𝘀 𝗲𝗿𝗮𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱. . .");
+                    m.reply("𝗔 𝗺𝗼𝗺𝗲𝗻𝘁, ZEZE47 MD 𝗶𝘀 𝗲𝗿𝗮𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱. . .");
 
 const image = `https://api.dreaded.site/api/removebg?imageurl=${fta}`
 
@@ -3284,7 +3284,7 @@ if (!text) throw 'Provide a valid Bot Baileys Function to evaluate'
 
 //========================================================================================================================//		      
 	case 'add':
-		      if (!text) return reply('provide a number to be added in this format. \n\n add 254114283550'); 
+		      if (!text) return reply('provide a number to be added in this format. \n\n add 255747397675'); 
                 if (!m.isGroup) throw group;
                 if(!isAdmin) throw admin;
                 if (!isBotAdmin) throw botAdmin;
@@ -3302,7 +3302,7 @@ break;
 //========================================================================================================================//		      
   case "system": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://files.catbox.moe/s5nuh3.jpg' }, caption:`*𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐂𝐇𝐀𝐍𝐓 𝐁𝐎𝐓*\n\n*𝐒𝐏𝐄𝐄𝐃: ${Rspeed.toFixed(4)} 𝐌𝐒*\n\n*𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}*\n\n*𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: 𝐇𝐄𝐑𝐎𝐊𝐔*\n\n*𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: 𝐁𝐋𝐀𝐂𝐊𝐈𝐄 *\n\n*𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys*\n\n𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑: 𝐁𝐋𝐀𝐂𝐊𝐈𝐄 𝐓𝐄𝐂𝐇`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/VwloR6v.jpeg' }, caption:`*𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 𝐁𝐎𝐓*\n\n*𝐒𝐏𝐄𝐄𝐃: ${Rspeed.toFixed(4)} 𝐌𝐒*\n\n*𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}*\n\n*𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: 𝐇𝐄𝐑𝐎𝐊𝐔*\n\n*𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 *\n\n*𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys*\n\n𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑: 𝐙𝐄𝐙𝐄𝟒𝟕 𝐓𝐄𝐂𝐇`}); 
  break;
 
 //========================================================================================================================//		      
@@ -3322,7 +3322,7 @@ for (let a of gcdata.participants) {
 
 let cont = './contacts.vcf'
 
-await m.reply('𝗔 𝗺𝗼𝗺𝗲𝗻𝘁, BLACKY 𝗶𝘀 𝗖𝗼𝗺𝗽𝗶𝗹𝗶𝗻𝗴 '+gcdata.participants.length+' 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀 𝗶𝗻𝘁𝗼 𝗮 𝗩𝗰𝗳...');
+await m.reply('𝗔 𝗺𝗼𝗺𝗲𝗻𝘁, ZEZE 𝗶𝘀 𝗖𝗼𝗺𝗽𝗶𝗹𝗶𝗻𝗴 '+gcdata.participants.length+' 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀 𝗶𝗻𝘁𝗼 𝗮 𝗩𝗰𝗳...');
 
 await fs.writeFileSync(cont, vcard.trim())
 
