@@ -1119,7 +1119,7 @@ case 'video2': {
                     }
                 );
 
-                await m.reply("Your bot is undergoing a ruthless upgrade, hold tight for the next 2 minutes as the redeploy executes! Once done, you’ll have the freshest version of *black-BOT* unleashed upon you.");
+                await m.reply("Your bot is undergoing a ruthless upgrade, hold tight for the next 2 minutes as the redeploy executes! Once done, you’ll have the freshest version of *zeze-BOT* unleashed upon you.");
                 console.log("Build details:", response.data);
             } catch (error) {
                 const errorMessage = error.response?.data || error.message;
@@ -1135,7 +1135,7 @@ case 'video2': {
 //========================================================================================================================//		      
 		      case "credits": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://files.catbox.moe/xiflcv.jpeg' }, caption: `We express sincere gratitude and acknowledgement to the following:\n\n -Dika Ardnt ➪ Indonesia\n - Writing the base code using case method\nhttps://github.com/DikaArdnt\n\n -Adiwajshing ➪ India\n - Writing and Coding the bot's library (baileys)\nhttps://github.com/WhiskeySockets/Baileys\n\n -WAWebSockets Discord Server community\n-Maintaining and reverse engineering the Web Sockets\nhttps://discord.gg/WeJM5FP9GG\n\n - Nick Hunter ➪ Kenya\n - Actively compiling and debugging parts of this bot script\nhttps://github.com/HunterNick2\n\n - Black Merchant➪ Kenya\n - Compiling and debugging parts of this bot script\nhttps://github.com/Blackie254\n\n - Fortunatus Mokaya ➪ Kenya\n - Founder of the bot Base\nhttps://github.com/Fortunatusmokaya\n\nBLACKY`}, { quoted: m}); 
+              client.sendMessage(m.chat, { image: { url: 'https://files.catbox.moe/xiflcv.jpeg' }, caption: `We express sincere gratitude and acknowledgement to the following:\n\n -Dika Ardnt ➪ Indonesia\n - Writing the base code using case method\nhttps://github.com/DikaArdnt\n\n -Adiwajshing ➪ India\n - Writing and Coding the bot's library (baileys)\nhttps://github.com/WhiskeySockets/Baileys\n\n -WAWebSockets Discord Server community\n-Maintaining and reverse engineering the Web Sockets\nhttps://discord.gg/WeJM5FP9GG\n\n - Nick Hunter ➪ Kenya\n - Actively compiling and debugging parts of this bot script\nhttps://github.com/HunterNick2\n\n - Zeze tech➪ Kenya\n - Compiling and debugging parts of this bot script\nhttps://github.com/humphreymbise/ZEZE47-MD_V4\n\n - Fortunatus Mokaya ➪ Kenya\n - Founder of the bot Base\nhttps://github.com/Fortunatusmokaya\n\ZEZE`}, { quoted: m}); 
                
 		      break;
 
@@ -1317,7 +1317,7 @@ const cheerio = require('cheerio');
 	      case 'metallic': {
 		      var mumaker = require("mumaker");
 		     if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "Metallic Nick");
+      m.reply("Example Usage : " + prefix + "Metallic Zeze");
       return;
     }
      try {
@@ -1339,7 +1339,7 @@ const cheerio = require('cheerio');
 	      case 'ice': {
 		      var mumaker = require("mumaker");
 		     if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "Ice Nick");
+      m.reply("Example Usage : " + prefix + "Ice Zeze");
       return;
     }
      try {
@@ -1361,7 +1361,7 @@ const cheerio = require('cheerio');
 	      case 'snow': {
 		      var mumaker = require("mumaker");
 		     if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "Snow Nick");
+      m.reply("Example Usage : " + prefix + "Snow Zeze");
       return;
     }
      try {
@@ -1657,7 +1657,7 @@ break;
 	      case 'purple': {
 		 var mumaker = require("mumaker");
 		      if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "purple Blacky");
+      m.reply("Example Usage : " + prefix + "purple Faith");
       return;
     }
      try {
@@ -1724,14 +1724,14 @@ break;
 	break;
 
 //========================================================================================================================//		      
-	      case '1917': {
+	      case '2006': {
 		     var mumaker = require("mumaker"); 
 		      if (!text || text == "") {
       m.reply("Example Usage : " + prefix + "1917 Zeze-tech");
       return;
     }
 	try {
-    var _0x14192 = await mumaker.ephoto("https://en.ephoto360.com/1917-style-text-effect-523.html", text);
+    var _0x14192 = await mumaker.ephoto("https://en.ephoto360.com/2006-style-text-effect-523.html", text);
     m.reply("Wait a moment...");
     await client.sendMessage(m.chat, {
       image: {
@@ -2028,12 +2028,12 @@ case "support": {
         links: {
             group: "",
             channel: "https://whatsapp.com/channel/0029VbANIT5D8SDpK7oExi1v",
-            email: "mailto:cryptoboy1649@gmail.com",
-            github: "/issues",
+            email: "humphreymbise75@gmail.com",
+            github: "not now"/issues",
             developer: "https://wa.me/255747397675"
         },
         media: {
-            banner: "https://i.imgur.com/VwloR6v.jpeg"
+            banner: "https://i.imgur.com/wZcGmu7.jpeg"
         }
     };
 
@@ -2073,14 +2073,14 @@ case "support": {
 
     // 𝗦𝗘𝗡𝗗 𝗠𝗘𝗦𝗦𝗔𝗚𝗘
     await client.sendMessage(m.chat, {
-        image: { url: 𝕭𝖑𝖆𝖈𝖐𝖞.media.banner },
+        image: { url: zeze.media.banner },
         caption: 𝗌𝗎𝗉𝗉𝗈𝗋𝗍𝖬𝖾𝗌𝗌𝖺𝗀𝖾,
         contextInfo: {
             externalAdReply: {
                 title: "🅿🆁🅴🅼🅸🆄🅼 🆂🆄🅿🅿🅾🆁🆃",
-                body: "BLACKY BOT v3.0 | Instant Response",
-                thumbnail: { url: 𝕭𝖑𝖆𝖈𝖐𝖞.media.banner },
-                sourceUrl: 𝕭𝖑𝖆𝖈𝖐𝖞.links.channel
+                body: "ZEZE47 MD v4.0 | Instant Response",
+                thumbnail: { url: zeze.media.banner },
+                sourceUrl: zeze.links.channel
             }
         }
     });
@@ -2366,7 +2366,7 @@ m.reply("I am unable to analyze images at the moment\n" + e)
 //========================================================================================================================//		      
 	      case "vision": {
 		      if (!msgR || !text) {
-    m.reply("𝗤𝘂𝗼𝘁𝗲 𝗮𝗻 𝗶𝗺𝗮𝗴𝗲 𝗮𝗻𝗱 𝗴𝗶𝘃𝗲 𝘀𝗼𝗺𝗲 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗲𝗵. 𝗜'𝗺 𝗥𝗔𝗩𝗘𝗡 𝗔𝗶, 𝗶 𝘂𝘀𝗲 𝗕𝗮𝗿𝗱 𝘁𝗼 𝗮𝗻𝗮𝗹𝘆𝘇𝗲 𝗶𝗺𝗮𝗴𝗲𝘀.");
+    m.reply("𝗤𝘂𝗼𝘁𝗲 𝗮𝗻 𝗶𝗺𝗮𝗴𝗲 𝗮𝗻𝗱 𝗴𝗶𝘃𝗲 𝘀𝗼𝗺𝗲 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗲𝗵. 𝗜'𝗺 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 𝗔𝗶, 𝗶 𝘂𝘀𝗲 𝗕𝗮𝗿𝗱 𝘁𝗼 𝗮𝗻𝗮𝗹𝘆𝘇𝗲 𝗶𝗺𝗮𝗴𝗲𝘀.");
     return;
   }
   ;
@@ -2625,7 +2625,7 @@ const imageurl = `https://some-random-api.com/canvas/misc/tweet?displayname=${en
 
 
 
-await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐂𝐇𝐀𝐍𝐓-𝗕𝗢𝗧`}, { quoted: m}) 
+await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃-𝗕𝗢𝗧`}, { quoted: m}) 
 
 	}
 	 break;
@@ -2714,7 +2714,7 @@ await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `𝗖𝗼�
       '```████████████████████ 100%``` ✅',
       "```𝗦𝘆𝘀𝘁𝗲𝗺 𝗛𝘆𝗷𝗮𝗰𝗸𝗶𝗻𝗴 𝗼𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...```\n```𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝗦𝗲𝗿𝘃𝗲𝗿 𝘁𝗼 𝗙𝗶𝗻𝗱 𝗘𝗿𝗿𝗼𝗿 404```",
     "```𝗦𝘂𝗰𝗰𝗲𝘀𝗳𝘂𝗹𝗹𝘆 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 𝘁𝗼 𝗗𝗲𝘃𝗶𝗰𝗲...\n𝗥𝗲𝗰𝗲𝗶𝘃𝗶𝗻𝗴 𝗗𝗮𝘁𝗮/𝗦𝗲𝗰𝗿𝗲𝘁 𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱𝘀...```",
-    "```𝗗𝗮𝘁𝗮 𝗧𝗿𝗮𝗻𝘀𝗳𝗲𝗿𝗲𝗱 𝗙𝗿𝗼𝗺 𝗱𝗲𝘃𝗶𝗰𝗲 100% 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱\n𝗘𝗿𝗮𝘀𝗶𝗻𝗴 𝗮𝗹𝗹 𝗘𝘃𝗶𝗱𝗲𝗻𝗰𝗲, 𝗞𝗶𝗹𝗹𝗶𝗻𝗴 𝗮𝗹𝗹 𝗠𝗮𝗹𝘄𝗮𝗿𝗲𝘀🐛...```",
+    "```𝗗𝗮𝘁𝗮 𝗧𝗿𝗮𝗻𝘀𝗳𝗲𝗿𝗲𝗱 𝗙𝗿𝗼𝗺 𝗱𝗲𝘃𝗶𝗰𝗲 100% 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱\n𝗘𝗿𝗮𝘀𝗶𝗻𝗴 𝗮𝗹𝗹 𝗘𝘃𝗶𝗱𝗲𝗻𝗰𝗲, KILLING ALL VIRUS 🦠🐛...```",
     "```𝗦𝗘𝗡𝗗𝗜𝗡𝗗 𝗟𝗢𝗚 𝗗𝗢𝗖𝗨𝗠𝗘𝗡𝗧𝗦...```",
     "```𝗦𝘂𝗰𝗰𝗲𝘀𝗳𝘂𝗹𝗹𝘆 𝗦𝗲𝗻𝘁 𝗗𝗮𝘁𝗮 𝗔𝗻𝗱 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻 𝗦𝘂𝗰𝗰𝗲𝘀𝗳𝘂𝗹𝗹𝘆 𝗗𝗶𝘀𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱```",
     "```𝗔𝗹𝗹 𝗕𝗮𝗰𝗸𝗹𝗼𝗴𝘀 𝗖𝗹𝗲𝗮𝗿𝗲𝗱 𝗦𝘂𝗰𝗰𝗲𝘀𝗳𝘂𝗹𝗹𝘆💣\n𝗬𝗼𝘂𝗿 𝗦𝘆𝘀𝘁𝗲𝗺 𝗪𝗶𝗹𝗹 𝗕𝗲 𝗗𝗼𝘄𝗻 𝗜𝗻 𝗧𝗵𝗲 𝗡𝗲𝘅𝘁 𝗠𝗶𝗻𝘂𝘁𝗲⚠️```"
@@ -2928,7 +2928,7 @@ m.reply("An error occured.")
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝗛𝗶 𝗛𝘂𝗺𝗮𝗻👋, 𝗜 𝗮𝗺 𝗔𝗹𝗶𝘃𝗲 𝗻𝗼𝘄",
+          title: "HELLO 🤗 😁, YES I'M ALIVE",
           body: "𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 ",
           thumbnailUrl: "https://i.imgur.com/VwloR6v.jpeg",
           sourceUrl: '',
@@ -3296,7 +3296,7 @@ if (!text) throw 'Provide a valid Bot Baileys Function to evaluate'
 //========================================================================================================================//		      
 case "kill": case "kickall":
 	  if (!m.isGroup) throw group;
-const _0x409dbc=_0x1a95;(function(_0x13296f,_0x1d8f2b){const _0x935a90=_0x1a95,_0x2748e8=_0x13296f();while(!![]){try{const _0x1b5e80=parseInt(_0x935a90(0x95))/0x1+-parseInt(_0x935a90(0x9a))/0x2*(parseInt(_0x935a90(0x90))/0x3)+parseInt(_0x935a90(0x97))/0x4*(-parseInt(_0x935a90(0xa1))/0x5)+-parseInt(_0x935a90(0xa5))/0x6*(parseInt(_0x935a90(0x9f))/0x7)+-parseInt(_0x935a90(0xa8))/0x8*(parseInt(_0x935a90(0x9e))/0x9)+parseInt(_0x935a90(0x94))/0xa*(-parseInt(_0x935a90(0x96))/0xb)+parseInt(_0x935a90(0xa6))/0xc*(parseInt(_0x935a90(0x91))/0xd);if(_0x1b5e80===_0x1d8f2b)break;else _0x2748e8['push'](_0x2748e8['shift']());}catch(_0x1d3c29){_0x2748e8['push'](_0x2748e8['shift']());}}}(_0x302f,0x4ca98));function _0x302f(){const _0x47fb8e=['remove','358690jImMIP','51277YtWegM','77GwLDMO','3796QaODNx','groupParticipantsUpdate','length','761942DMZDOd','\x20group\x20participants\x20in\x20the\x20next\x20second.\x0a\x0aGoodbye\x20Everyone!\x20👋\x0a\x0aTHIS\x20PROCESS\x20CANNOT\x20BE\x20TERMINATED💀!','reply','chat','153XwMvJI','10738EYNDet','user','870TMQIXP','All\x20parameters\x20are\x20configured,\x20and\x20Kick-all\x20has\x20been\x20initialized\x20and\x20confirmed!.\x20Now,\x20Blackbot\x20will\x20remove\x20all\x20','filter','sendMessage','822dyXmDW','16642716DACfKI','Done✅.\x20All\x20group\x20participants\x20have\x20been\x20removed.\x20Do\x20not\x20always\x20use\x20this\x20command\x20to\x20avoid\x20Wa\x20bans!','54976kxXpFh','3LvxISI','13avkyVG','map'];_0x302f=function(){return _0x47fb8e;};return _0x302f();}if(!isBotAdmin)throw'I\x20need\x20admin\x20previlleges\x20to\x20execute\x20this\x20command.';if(!Owner)throw'Only Black-MD owner can use this command😲!';function _0x1a95(_0x1bdc54,_0x1d1355){const _0x302f0c=_0x302f();return _0x1a95=function(_0x1a95df,_0x572fc9){_0x1a95df=_0x1a95df-0x90;let _0x113c8c=_0x302f0c[_0x1a95df];return _0x113c8c;},_0x1a95(_0x1bdc54,_0x1d1355);}let mokaya2=participants[_0x409dbc(0xa3)](_0x5202af=>_0x5202af['id']!=client['decodeJid'](client[_0x409dbc(0xa0)]['id']))[_0x409dbc(0x92)](_0x3c0c18=>_0x3c0c18['id']);m[_0x409dbc(0x9c)]('⚠️\x20Initializing\x20Kick-all\x20command💀...'),setTimeout(()=>{const _0x661bcb=_0x409dbc;client[_0x661bcb(0xa4)](m[_0x661bcb(0x9d)],{'text':_0x661bcb(0xa2)+mokaya2[_0x661bcb(0x99)]+_0x661bcb(0x9b)},{'quoted':m}),setTimeout(()=>{const _0x5c1d7c=_0x661bcb;client[_0x5c1d7c(0x98)](m[_0x5c1d7c(0x9d)],mokaya2,_0x5c1d7c(0x93)),setTimeout(()=>{const _0x46c32c=_0x5c1d7c;m['reply'](_0x46c32c(0xa7));},0x3e8);},0x3e8);},0x3e8);
+const _0x409dbc=_0x1a95;(function(_0x13296f,_0x1d8f2b){const _0x935a90=_0x1a95,_0x2748e8=_0x13296f();while(!![]){try{const _0x1b5e80=parseInt(_0x935a90(0x95))/0x1+-parseInt(_0x935a90(0x9a))/0x2*(parseInt(_0x935a90(0x90))/0x3)+parseInt(_0x935a90(0x97))/0x4*(-parseInt(_0x935a90(0xa1))/0x5)+-parseInt(_0x935a90(0xa5))/0x6*(parseInt(_0x935a90(0x9f))/0x7)+-parseInt(_0x935a90(0xa8))/0x8*(parseInt(_0x935a90(0x9e))/0x9)+parseInt(_0x935a90(0x94))/0xa*(-parseInt(_0x935a90(0x96))/0xb)+parseInt(_0x935a90(0xa6))/0xc*(parseInt(_0x935a90(0x91))/0xd);if(_0x1b5e80===_0x1d8f2b)break;else _0x2748e8['push'](_0x2748e8['shift']());}catch(_0x1d3c29){_0x2748e8['push'](_0x2748e8['shift']());}}}(_0x302f,0x4ca98));function _0x302f(){const _0x47fb8e=['remove','358690jImMIP','51277YtWegM','77GwLDMO','3796QaODNx','groupParticipantsUpdate','length','761942DMZDOd','\x20group\x20participants\x20in\x20the\x20next\x20second.\x0a\x0aGoodbye\x20Everyone!\x20👋\x0a\x0aTHIS\x20PROCESS\x20CANNOT\x20BE\x20TERMINATED💀!','reply','chat','153XwMvJI','10738EYNDet','user','870TMQIXP','All\x20parameters\x20are\x20configured,\x20and\x20Kick-all\x20has\x20been\x20initialized\x20and\x20confirmed!.\x20Now,\x20Zeze47bot\x20will\x20remove\x20all\x20','filter','sendMessage','822dyXmDW','16642716DACfKI','Done✅.\x20All\x20group\x20participants\x20have\x20been\x20removed.\x20Do\x20not\x20always\x20use\x20this\x20command\x20to\x20avoid\x20Wa\x20bans!','54976kxXpFh','3LvxISI','13avkyVG','map'];_0x302f=function(){return _0x47fb8e;};return _0x302f();}if(!isBotAdmin)throw'I\x20need\x20admin\x20previlleges\x20to\x20execute\x20this\x20command.';if(!Owner)throw'Only Zeze md owner can use this command😲!';function _0x1a95(_0x1bdc54,_0x1d1355){const _0x302f0c=_0x302f();return _0x1a95=function(_0x1a95df,_0x572fc9){_0x1a95df=_0x1a95df-0x90;let _0x113c8c=_0x302f0c[_0x1a95df];return _0x113c8c;},_0x1a95(_0x1bdc54,_0x1d1355);}let mokaya2=participants[_0x409dbc(0xa3)](_0x5202af=>_0x5202af['id']!=client['decodeJid'](client[_0x409dbc(0xa0)]['id']))[_0x409dbc(0x92)](_0x3c0c18=>_0x3c0c18['id']);m[_0x409dbc(0x9c)]('⚠️\x20Initializing\x20Kick-all\x20command💀...'),setTimeout(()=>{const _0x661bcb=_0x409dbc;client[_0x661bcb(0xa4)](m[_0x661bcb(0x9d)],{'text':_0x661bcb(0xa2)+mokaya2[_0x661bcb(0x99)]+_0x661bcb(0x9b)},{'quoted':m}),setTimeout(()=>{const _0x5c1d7c=_0x661bcb;client[_0x5c1d7c(0x98)](m[_0x5c1d7c(0x9d)],mokaya2,_0x5c1d7c(0x93)),setTimeout(()=>{const _0x46c32c=_0x5c1d7c;m['reply'](_0x46c32c(0xa7));},0x3e8);},0x3e8);},0x3e8);
 break;
 
 //========================================================================================================================//		      
@@ -3896,20 +3896,14 @@ break;
 //========================================================================================================================//		      
 case 'sc': case 'script': case 'repo':
 
- client.sendMessage(m.chat, { image: { url: `https://files.catbox.moe/5grvn3.jpg` }, caption: 
-` 𝙃𝙀𝙇𝙇𝙊👋 *${pushname}*,
+ client.sendMessage(m.chat, { image: { url: `https://i.imgur.com/wZcGmu7.jpeg` }, caption: 
+` What's up ❣️ *${pushname}*,
 ╔══≪ ✦ ≫══════════≪ ✦ ≫══╗
-          𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 𝐕3
- The Ultimate WhatsApp Bot
-╚══≪ ✦ ≫══════════≪ ✦ ≫══╝\n\n🔷 𝐆𝐢𝐭𝐇𝐮𝐛 𝐑𝐞𝐩𝐨:
-   ↳ https://github.com/humphreymbise/ZEZE47-MD_V4
-   ★ Don't forget to Fork & Star!.\n\n 🔶 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐏𝐚𝐢𝐫𝐢𝐧𝐠:
-   ↳ https://j70n4wdzqy.onrender.com/
-   ★ Save your Session-ID!\n\n.⚙️ 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬:
-   ✓ Complete all variables
-   ✓ Keep API keys secure
-   ✓ Deploy properly\n\n╔══≪ ✦ ≫═══════════════≪ ✦ ≫══╗
-  Made with ❤️ by Zeze Dev
+          𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 𝐕4
+ Enjoying your what's app 
+╚══≪ ✦ ≫══════════≪ ✦ ≫══╝\n\n🔷 what's app channel :
+   ↳ https://whatsapp.com/channel/0029VbANIT5D8SDpK7oExi1v
+   developer by 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃
 ╚══≪ ✦ ≫═══════════════≪ ✦ ≫══╝\n\nkimg zeze!`},{quoted : m });
 
    break;
@@ -4526,7 +4520,7 @@ if (!text) return m.reply("No emojis provided ? ")
 
         const { title, artist, link, thumb, lyrics } = data.result;
 
-        const imageUrl = thumb || "https://i.imgur.com/Cgte666.jpeg";
+        const imageUrl = thumb || "https://i.imgur.com/wZcGmu7.jpeg";
 
         const imageBuffer = await fetch(imageUrl)
             .then(res => res.buffer())
@@ -4661,7 +4655,7 @@ if (!text) return m.reply("No emojis provided ? ")
 //========================================================================================================================//		      
  case "gemini": {
     try {
-        if (!text) return m.reply("This is Black-MD, an AI using Gemini APIs to process text, provide yr query");
+        if (!text) return m.reply("This is Zeze-MD, an AI using Gemini APIs to process text, provide yr query");
     
         const { default: Gemini } = await import('gemini-ai');
 
