@@ -41,7 +41,7 @@ const color = (text, color) => {
 async function authentication() {
   if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
     if(!session) return console.log('Please add your session to SESSION env !!')
-const sessdata = session.replace("ZEZE47-MD;;;", '');
+const sessdata = session.replace("BLACK MD;;;", '');
 const filer = await File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -58,7 +58,7 @@ async function startRaven() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("ZEZE47-MD", {
+      figlet.textSync("BLACK-MD", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -71,7 +71,7 @@ async function startRaven() {
   const client = ravenConnect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: false,
-    browser: ["ZEZE - AI", "Safari", "5.1.7"],
+    browser: ["BLACK - AI", "Safari", "5.1.7"],
     auth: state,
     syncFullHistory: true,
   });
@@ -85,11 +85,11 @@ client.ev.on('connection.update', (update) => {
 startRaven()
   }
   } else if (connection === 'open') {
-      console.log(color("Congrats, ZEZE47 MD has successfully connected to this server", "green"));
-      console.log(color("Follow me on github as Humphrey", "red"));
+      console.log(color("Congrats, BLACK MD has successfully connected to this server", "green"));
+      console.log(color("Follow me on github as Blackie254", "red"));
       console.log(color("Text the bot number with menu to check my command list"));
       client.groupAcceptInvite('L4gDFUFkHmD9NNa2XvVbNj');
-      const Texxt = `✅ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 » »【ZEZE47 MD】\n`+`👥 𝗠𝗼𝗱𝗲 »» ${mode}\n`+`👤 𝗣𝗿𝗲𝗳𝗶𝘅 »» ${prefix}`
+      const Texxt = `✅ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 » »【BLACK MD】\n`+`👥 𝗠𝗼𝗱𝗲 »» ${mode}\n`+`👤 𝗣𝗿𝗲𝗳𝗶𝘅 »» ${prefix}`
       client.sendMessage(client.user.id, { text: Texxt });
     }
   });
